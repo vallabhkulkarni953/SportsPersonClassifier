@@ -1,0 +1,9 @@
+Flask
+HTML
+CSS
+JavaScript
+Wavelet Transform w2D
+image to base64 string
+Haar Cascades
+Classifier Model 
+Jquery
