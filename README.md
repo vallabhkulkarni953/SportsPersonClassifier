@@ -18,7 +18,7 @@ User Interface :
 Drag and Drop Input Image:
 ![Output_input](https://github.com/user-attachments/assets/84a01c90-df1e-47db-8670-3f88fd71ff4a)
 
-Accurate Classifications upto 86% Accuracy:
+Accurate Classifications upto <b>86%</b> Accuracy:
 ![Output_Classification](https://github.com/user-attachments/assets/01e392b8-c234-4845-97c5-cd2ebaaa0dc3)
 
 
