@@ -3,9 +3,9 @@ A Data Science Project to classify the input image of a person to Famous Persons
 <hr>
 
 ## Tech Stack : 
-Frontend : HTML, CSS, JavaScript, JQuery
-Backend : Flask 
-Models : Classifier Models including SVM, Random Forest, Logistic Regression
+Frontend : HTML, CSS, JavaScript, JQuery <br>
+Backend : Flask <br>
+Models : Classifier Models including SVM, Random Forest, Logistic Regression <br>
 Others : Wavelet Transform 2D, Haar Cascades
 <hr>
 
