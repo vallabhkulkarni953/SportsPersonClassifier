@@ -9,7 +9,7 @@ Models : Classifier Models including SVM, Random Forest, Logistic Regression <br
 Others : Wavelet Transform 2D, Haar Cascades
 <hr>
 
-Dataset Link : https://www.kaggle.com/datasets/tastycoderop/sports-person-dataset/data
+Dataset Link (Redirecting to Kaggle): https://www.kaggle.com/datasets/tastycoderop/sports-person-dataset/data
 <hr>
 
 Models Comparison :
