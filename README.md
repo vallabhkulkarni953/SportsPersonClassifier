@@ -12,6 +12,10 @@ Others : Wavelet Transform 2D, Haar Cascades
 Dataset Link : https://www.kaggle.com/datasets/tastycoderop/sports-person-dataset/data
 <hr>
 
+Models Comparison :
+![Accuracy Comparison](https://github.com/user-attachments/assets/5a8ff917-d3f7-4642-9ca2-99bc791cf4c0)
+<hr>
+
 User Interface : 
 ![Output_UI](https://github.com/user-attachments/assets/e384c913-f70f-4898-b603-7e84b50f588f)
 
