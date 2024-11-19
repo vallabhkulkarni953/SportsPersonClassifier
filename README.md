@@ -1,14 +1,17 @@
 # SportsPersonClassifier
 A Data Science Project to classify the input image of a person to Famous Persons using Computer Vision, Image Processing and UI (Frontend + Backend)
 <hr>
+
 ## Tech Stack : 
 Frontend : HTML, CSS, JavaScript, JQuery
 Backend : Flask 
 Models : Classifier Models including SVM, Random Forest, Logistic Regression
 Others : Wavelet Transform 2D, Haar Cascades
 <hr>
+
 Dataset Link : https://www.kaggle.com/datasets/tastycoderop/sports-person-dataset/data
 <hr>
+
 User Interface : 
 ![Output_UI](https://github.com/user-attachments/assets/e384c913-f70f-4898-b603-7e84b50f588f)
 
