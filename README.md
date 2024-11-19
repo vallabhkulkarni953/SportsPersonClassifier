@@ -10,7 +10,7 @@ Others : Wavelet Transform 2D, Haar Cascades
 Dataset Link : https://www.kaggle.com/datasets/tastycoderop/sports-person-dataset/data
 <hr>
 User Interface : 
-![Output_UI](https://github.com/user-attachments/assets/cfc49e31-1f03-4a55-95dd-c567fbe0045b)
+![Output_UI](https://github.com/user-attachments/assets/e384c913-f70f-4898-b603-7e84b50f588f)
 
 Drag and Drop Input Image:
 ![Output_input](https://github.com/user-attachments/assets/84a01c90-df1e-47db-8670-3f88fd71ff4a)
